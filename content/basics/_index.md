@@ -6,8 +6,8 @@ chapter = true
 pre = "<b>X. </b>"
 +++
 
-### Chapter X
+### Chapter 1
 
-# Some Chapter title
+# JavaScript Beginner Basics
 
 Lorem Ipsum. ipsum
